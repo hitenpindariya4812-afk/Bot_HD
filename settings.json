@@ -8,7 +8,7 @@
   "server": {
     "ip": "ThunderSmp1.aternos.me",
     "port": 52400,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
